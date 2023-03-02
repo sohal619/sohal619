@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+<h1 align="center">
     <img src='https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif'>
-</p>
+</h1>
 <h1 align="center">Hi 👋, I'm Sohal</h1>
 <h3 align="center">A dedicated Data Analyst!</h3>
 
