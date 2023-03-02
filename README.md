@@ -1,25 +1,36 @@
-<p align="center">
-    <img src='https://im4.ezgif.com/tmp/ezgif-4-d168131472.gif'>
+<p align= "center">
+    <img src='http://drive.google.com/uc?export=view&id=193cUcwdTcXfXApHW10EgQfCWY-JrcZov'>
 </p>
-<h1 align="center">Hi 👋, I'm Sohal</h1>
-<h3 align="center">A dedicated Data Analyst!</h3>
+<h1 align="center">Hi 👋, I'm Sohal.</h1>
+<h3 align="center">An Aspiring Data Analyst!</h3>
+
+<h3 align="left">About me:</h3>
+
+- 🔭 I’m currently studying Data Analytics at [Masai School.](https://www.masai.school/referral/vrlzbcp)
+
+- 🎓 I have done my graduation in BCA from **Apex Institute of Management and Science.**
+
+- 🌱 I'm currently learning **Deployment of web applications.**
+
+- 🧾 Scholar of **Bhaichung Bhutia Scholarship for exemplary performance.**
+
+- 📫 Reach me: **markvalloway9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohammadsohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohammadsohal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohammad_sohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammad_sohal" height="30" width="40" /></a>
+<a href="https://leetcode.com/mohammad_sohal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohammad_sohal/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-<img src="https://img.icons8.com/external-filled-outline-satawat-anukul/64/null/external-trading-trading-filled-outline-style-filled-outline-satawat-anukul-58.png"/>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohal619&" alt="sohal619" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohal619&show_icons=true&locale=en&layout=compact" alt="sohal619" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohal619&show_icons=true&locale=en" alt="sohal619" /></p>
+
+
