@@ -1,5 +1,5 @@
 <p align="center">
-    <img src='https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif'>
+    <img src='https://im4.ezgif.com/tmp/ezgif-4-f03e88ef19.gif'>
 </p>
 <h1 align="center">Hi 👋, I'm Sohal</h1>
 <h3 align="center">A dedicated Data Analyst!</h3>
