@@ -1,5 +1,5 @@
 <a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
-    <img src='http://drive.google.com/uc?export=view&id=1e6wZ1prMJwGKttCksEiIgEu5CRtmP4Ti'>
+    <img src='http://drive.google.com/uc?export=view&id=1zFv067EoUPLaGOINsVeAH67me0X3PhJB'>
 </a>
 <br>
 <br>
