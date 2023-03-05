@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohal619&label=Profile%20views&color=0e75b6&style=flat" alt="sohal619" /> </p>
 
-<h3 align="left">About me:</h3>
+<h2 align="left"><img src="http://drive.google.com/uc?export=view&id=1codTr7FBp5cDbQSVqca1MxmfeOp0A9RL" width=30 height=30 align='left' style="padding-right: 10px;">About me:</h2>
 
 - 🔭 I’m currently studying Data Analytics at [Masai School.](https://www.masai.school/referral/vrlzbcp)
 
@@ -22,44 +22,44 @@
 
 - 📫 Reach me: **markvalloway9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"><img src="http://drive.google.com/uc?export=view&id=1DPFPiV_kulWobupK3HR8X2UY-muk7Bg8" width=30 height=30 align='left' style="padding-right: 10px;">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mohammadsohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohammadsohal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohammad_sohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammad_sohal" height="30" width="40" /></a>
-<a href="https://leetcode.com/mohammad_sohal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohammad_sohal/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/mohammadsohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohammadsohal" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/mohammad_sohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammad_sohal" height="40" width="40" /></a>
+<a href="https://leetcode.com/mohammad_sohal/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="https://leetcode.com/mohammad_sohal/" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2><img src="http://drive.google.com/uc?export=view&id=1-uq_xhX3IslUyLeEMPXdc_SQReGgJAet" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
 <p align="center"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.icons8.com/color/144/000000/pandas.png" alt="pandas" width="40" height="40"/> 
-    </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-    </a>
-    <a href='https://www.microsoft.com/en/microsoft-365/excel'>
-        <img src="https://img.icons8.com/fluency/48/null/microsoft-excel-2019.png" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
     </a>
     <a href='https://www.microsoft.com/en-us/sql-server'>
-        <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="40" height="40" />
+        <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50" />
+    </a>
+    <a href='https://www.microsoft.com/en/microsoft-365/excel'>
+        <img src="https://img.icons8.com/fluency/48/null/microsoft-excel-2019.png" width="50" height="50" />
     </a>
     <a href='https://www.tableau.com/'>
-        <img src="https://img.icons8.com/color/48/null/tableau-software.png" width="40" height="40" />
+        <img src="https://img.icons8.com/color/48/null/tableau-software.png" width="50" height="50" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/144/000000/pandas.png" alt="pandas" width="50" height="50"/> 
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+    </a>
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
     </a>
 </p>
 
