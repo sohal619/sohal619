@@ -1,6 +1,8 @@
 <a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
     <img src='http://drive.google.com/uc?export=view&id=1e6wZ1prMJwGKttCksEiIgEu5CRtmP4Ti'>
 </a>
+<br>
+<br>
 <p>
 <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='left'>
 <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='right'>
@@ -9,6 +11,8 @@
 <h3 align="center">An Aspiring Data Analyst!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohal619&label=Profile%20views&color=0e75b6&style=flat" alt="sohal619" /> </p>
+<br>
+<img src='http://drive.google.com/uc?export=view&id=193cUcwdTcXfXApHW10EgQfCWY-JrcZov' align='right' width=400 height=220>
 
 <h2 align="left"><img src="http://drive.google.com/uc?export=view&id=1codTr7FBp5cDbQSVqca1MxmfeOp0A9RL" width=30 height=30 align='left' style="padding-right: 10px;">About me:</h2>
 
@@ -22,6 +26,7 @@
 
 - 📫 Reach me: **markvalloway9@gmail.com**
 
+<br>
 <h2 align="left"><img src="http://drive.google.com/uc?export=view&id=1DPFPiV_kulWobupK3HR8X2UY-muk7Bg8" width=30 height=30 align='left' style="padding-right: 10px;">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" height="40" width="40" /></a>
@@ -30,6 +35,7 @@
 <a href="https://leetcode.com/mohammad_sohal/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="https://leetcode.com/mohammad_sohal/" height="40" width="40" /></a>
 </p>
 
+<br>
 <h2><img src="http://drive.google.com/uc?export=view&id=1-uq_xhX3IslUyLeEMPXdc_SQReGgJAet" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
