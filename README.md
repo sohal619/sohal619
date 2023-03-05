@@ -1,5 +1,5 @@
 <p align= "center">
-    <img src='http://drive.google.com/uc?export=view&id=1tL1Jlq2KEiWIjyox6AInYnQzKm6BrJSP'>
+    <img src='http://drive.google.com/uc?export=view&id=1JzMuCyIrIHSeq4RD5TXvinhxvnnXqj21' width=600 height=350>
 </p>
 <h1 align="center">Hi 👋, I'm Sohal.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
