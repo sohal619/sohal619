@@ -1,8 +1,8 @@
 <a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
     <img src='http://drive.google.com/uc?export=view&id=1e6wZ1prMJwGKttCksEiIgEu5CRtmP4Ti'>
 </a>
-<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" style="float: left;">
-<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" style="float: right;">
+<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100">
+<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100">
 <h1 align="center">Hi 👋, I'm Sohal.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
 
