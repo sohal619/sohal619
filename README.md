@@ -1,8 +1,10 @@
 <a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
     <img src='http://drive.google.com/uc?export=view&id=1e6wZ1prMJwGKttCksEiIgEu5CRtmP4Ti'>
 </a>
-<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100">
-<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100">
+<p>
+<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='left'>
+<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='right'>
+</p>
 <h1 align="center">Hi 👋, I'm Sohal.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
 
@@ -21,7 +23,7 @@
 - 📫 Reach me: **markvalloway9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sohal-5b8b38224/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mohammadsohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohammadsohal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammad_sohal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mohammad_sohal" height="30" width="40" /></a>
@@ -29,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
