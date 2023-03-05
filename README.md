@@ -1,6 +1,6 @@
-<p align= "center">
+<a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
     <img src='http://drive.google.com/uc?export=view&id=1e6wZ1prMJwGKttCksEiIgEu5CRtmP4Ti'>
-</p>
+</a>
 <h1 align="center">Hi 👋, I'm Sohal.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
 
