@@ -73,6 +73,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohal619&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sohal619" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohal619&hide_border=false&include_all_commits=false&count_private=false" alt="sohal619" fill="#fsdfsd" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohal619&hide_border=false" alt="sohal619" /></p>
-
-
-
