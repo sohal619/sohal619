@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohal619&label=Profile%20views&color=0e75b6&style=flat" alt="sohal619" /> </p>
 <br>
-<img src='http://drive.google.com/uc?export=view&id=193cUcwdTcXfXApHW10EgQfCWY-JrcZov' align='right' width=400 height=220>
+<img src='http://drive.google.com/uc?export=view&id=193cUcwdTcXfXApHW10EgQfCWY-JrcZov' align='right' width=450 height=220>
 
 <h2 align="left"><img src="http://drive.google.com/uc?export=view&id=1codTr7FBp5cDbQSVqca1MxmfeOp0A9RL" width=30 height=30 align='left' style="padding-right: 10px;">About me:</h2>
 
