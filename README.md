@@ -69,6 +69,18 @@
     </a>
 </p>
 <br>
+<h2>
+    <img src='http://drive.google.com/uc?export=view&id=1tIfy12RePCezY7aNifBt5dVuDj3xDn95' width=30 height=30 align='left' style="padding-right: 10px;">Certificates:
+</h2>
+<p align='center'>
+    <a href='https://sohal619.github.io/linkedin-certificates/'>
+        <img src='http://drive.google.com/uc?export=view&id=1kdbcrVzEtoiQm9c3QPcyZXzEolJB9mIR'>
+    </a>
+    <a href='https://sohal619.github.io/udemy-certificates/'>
+        <img src='http://drive.google.com/uc?export=view&id=1AhUp-VnDQT6KJSKfc3wppx49GhZ-iOhy'>
+    </a>
+</p>
+
 <h2><img src="http://drive.google.com/uc?export=view&id=1VFn-GBJVtXotHh5BbZa2lWAaTBvE3leh" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohal619&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sohal619" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohal619&hide_border=false&include_all_commits=false&count_private=false" alt="sohal619" fill="#fsdfsd" /></p>
