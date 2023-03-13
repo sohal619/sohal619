@@ -73,11 +73,12 @@
     <img src='http://drive.google.com/uc?export=view&id=1tIfy12RePCezY7aNifBt5dVuDj3xDn95' width=30 height=30 align='left' style="padding-right: 10px;">Certificates:
 </h2>
 <p align='center'>
-    <a href='https://sohal619.github.io/linkedin-certificates/'>
-        <img src='http://drive.google.com/uc?export=view&id=1kdbcrVzEtoiQm9c3QPcyZXzEolJB9mIR'>
-    </a>
     <a href='https://sohal619.github.io/udemy-certificates/'>
         <img src='http://drive.google.com/uc?export=view&id=1AhUp-VnDQT6KJSKfc3wppx49GhZ-iOhy'>
+    </a>
+    <br>
+    <a href='https://sohal619.github.io/linkedin-certificates/'>
+        <img src='http://drive.google.com/uc?export=view&id=1kdbcrVzEtoiQm9c3QPcyZXzEolJB9mIR'>
     </a>
 </p>
 
