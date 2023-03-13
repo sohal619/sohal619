@@ -83,6 +83,4 @@
 </p>
 
 <h2><img src="http://drive.google.com/uc?export=view&id=1VFn-GBJVtXotHh5BbZa2lWAaTBvE3leh" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohal619&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sohal619" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohal619&hide_border=false&include_all_commits=false&count_private=false" alt="sohal619" fill="#fsdfsd" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohal619&hide_border=false" alt="sohal619" /></p>
