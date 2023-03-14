@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='left'>
 <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" widht="100" height="100" align='right'>
 </p>
-<h1 align="center">Hi 👋, I'm Sohal.</h1>
+<h1 align="center">Hi <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width=30 height=30>, I'm Sohal.</h1>
 <h3 align="center">An Aspiring Data Analyst!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohal619&label=Profile%20views&color=0e75b6&style=flat" alt="sohal619" /> </p>
