@@ -1,5 +1,5 @@
 <a align= "center" href='https://www.linkedin.com/in/mohammad-sohal-5b8b38224/'>
-    <img src='https://user-images.githubusercontent.com/79499162/185909215-7339e227-e906-45d2-b10e-51a7c8611585.png'>
+    <img src='https://cerebra-consulting.com/wp-content/uploads/2019/10/Big-Data-Background.jpg'>
 </a>
 <br>
 <br>
