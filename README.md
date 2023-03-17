@@ -54,7 +54,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"                    alt="https://www.hackerrank.com/mohammad_sohal" height="40" width="40" />
     </a>
     <a href="https://leetcode.com/mohammad_sohal/" target="blank">
-        <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-          shadow-tal-revivo.png" alt="https://leetcode.com/mohammad_sohal/" height="40" width="40" />
+        <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="https://leetcode.com/mohammad_sohal/" height="40"                width="40" />
     </a>
 </p>
 
