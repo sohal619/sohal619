@@ -19,7 +19,7 @@
 
 <br>
 
-<img src='http://drive.google.com/uc?export=view&id=193cUcwdTcXfXApHW10EgQfCWY-JrcZov' align='right' width=450 height=220>
+<img src='https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif' align='right' width=450 height=300>
 
 <h2 align="left">
     <img src="http://drive.google.com/uc?export=view&id=1codTr7FBp5cDbQSVqca1MxmfeOp0A9RL" width=30 height=30 align='left' style="padding-right: 10px;">
