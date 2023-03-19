@@ -39,7 +39,7 @@
 <br>
 
 <h2 align="left">
-    <img src="http://drive.google.com/uc?export=view&id=1DPFPiV_kulWobupK3HR8X2UY-muk7Bg8" width=30 height=30 align='left' style="padding-right: 10px;">
+    <img src="connect.gif" width=30 height=30 align='left' style="padding-right: 10px;">
     Connect with me:
 </h2>
 
@@ -60,7 +60,7 @@
 
 <br>
 
-<h2><img src="http://drive.google.com/uc?export=view&id=1-uq_xhX3IslUyLeEMPXdc_SQReGgJAet" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
+<h2><img src="skills.gif" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
@@ -106,5 +106,5 @@
     </a>
 </p>
 
-<h2><img src="http://drive.google.com/uc?export=view&id=1VFn-GBJVtXotHh5BbZa2lWAaTBvE3leh" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
+<h2><img src="stats.gif" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohal619&hide_border=false" alt="sohal619" /></p>
