@@ -98,11 +98,11 @@
 </h2>
 <p align='center'>
     <a href='https://sohal619.github.io/udemy-certificates/'>
-        <img src='http://drive.google.com/uc?export=view&id=1AhUp-VnDQT6KJSKfc3wppx49GhZ-iOhy'>
+        <img src='udemy.png'>
     </a>
     <br>
     <a href='https://sohal619.github.io/linkedin-certificates/'>
-        <img src='http://drive.google.com/uc?export=view&id=1kdbcrVzEtoiQm9c3QPcyZXzEolJB9mIR'>
+        <img src='linkedin learning.png'>
     </a>
 </p>
 
