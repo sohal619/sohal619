@@ -19,7 +19,7 @@
 
 <br>
 
-<img src='https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif' align='right' width=450 height=300>
+<img src='https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif' align='right' width=450 height=350>
 
 <h2 align="left">
     <img src="info.gif" width=30 height=30 align='left' style="padding-right: 10px;">
