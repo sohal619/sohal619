@@ -60,7 +60,7 @@
 
 <br>
 
-<h2><img src="skills.gif" width=30 height=30 align='left' style="padding-right: 10px;">Languages and Tools:</h2>
+<h2><img src="skills.gif" width=30 height=30 align='left' style="padding-right: 10px;">&nbsp; Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
