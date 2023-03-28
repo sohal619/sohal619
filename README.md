@@ -104,6 +104,10 @@
     <a href='https://sohal619.github.io/linkedin-certificates/'>
         <img src='linkedin learning.png'>
     </a>
+    <br>
+    <a href='https://coursera.org/share/ed9861532226df99b600590e717ba475'>
+        <img src='coursera.jpg'>
+    </a>
 </p>
 
 <h2><img src="stats.gif" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
