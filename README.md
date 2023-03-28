@@ -110,5 +110,5 @@
     </a>
 </p>
 
-<h2><img src="stats.gif" width=30 height=30 align='left' style="padding-right: 10px;">Github Stats:</h2>
+<h2><img src="stats.gif" width=30 height=30 align='left' style="padding-right: 10px;">&nbsp; Github Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohal619&hide_border=false" alt="sohal619" /></p>
