@@ -40,7 +40,7 @@
 
 <h2 align="left">
     <img src="connect.gif" width=30 height=30 align='left' style="padding-right: 10px;">
-    Connect with me:
+    &nbsp; Connect with me:
 </h2>
 
 <p align="center">
