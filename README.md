@@ -23,7 +23,7 @@
 
 <h2 align="left">
     <img src="info.gif" width=30 height=30 align='left' style="padding-right: 10px;">
-    About me:
+    &nbsp; About me:
 </h2>
 
 - 🔭 I’m currently studying Data Analytics at [Masai School.](https://www.masai.school/referral/vrlzbcp)
