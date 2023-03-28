@@ -94,7 +94,7 @@
 </p>
 <br>
 <h2>
-    <img src='certi.gif' width=30 height=30 align='left' style="padding-right: 10px;">Certificates:
+    <img src='certi.gif' width=30 height=30 align='left' style="padding-right: 10px;">&nbsp; Certificates:
 </h2>
 <p align='center'>
     <a href='https://sohal619.github.io/udemy-certificates/'>
