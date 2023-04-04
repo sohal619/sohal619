@@ -106,7 +106,7 @@
     </a>
     <br>
     <a href='https://www.credly.com/users/mohammad-sohal/badges'>
-        <img src='coursera.jpg'>
+        <img src='credly.png' width=150 height=60>
     </a>
 </p>
 
