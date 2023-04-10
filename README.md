@@ -34,7 +34,7 @@
 
 - 🧾 Scholar of **Bhaichung Bhutia Scholarship for exemplary performance.**
 
-- 📫 Reach me: **markvalloway9@gmail.com**
+- 📫 Reach me: **sohalkhan90570@gmail.com**
 
 <br>
 
